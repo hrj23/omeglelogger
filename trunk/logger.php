@@ -34,6 +34,7 @@
 		</style>
 	</head>
 	<body>
+	<h3>Omegle Logger</h3>
 	<div>Chat Log #: <span id="chatLogId"></span> <a id="logLink" href="#" target="_blank">View Log</a> <input type="button" id="sendLinkBtn" value="Send Log Link"/></div>
 	<div class="stranger1">Stranger #1 Id: <span id="chatId1"></span> | <span id="chatId1Typing"></span></div>
 	<div class="stranger2">Stranger #2 Id: <span id="chatId2"></span> | <span id="chatId2Typing"></span></div>
