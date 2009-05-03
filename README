@@ -1,0 +1,14 @@
+Omegle Logger v1.0
+Get the latest version or support at:
+	http://code.google.com/p/omeglelogger/
+	omeglelogger@gmail.com
+
+Requirements
+	You'll need a MySQL database and Apache+PHP with the CURL extension installed.
+
+Installation
+	Drop all the files into a directory on your web server.
+	Create a new MySQL database and use the omeglelogger.sql file to create the new tables and current spammer list entries.
+	Edit the config.php file and add your database settings.
+	Visit the logger.php file in your web browser. Click on start conversation. You should start seeing a conversation log
+	Visit the index.php file in your web browser to view all the chat logs.
