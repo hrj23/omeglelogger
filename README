@@ -4,7 +4,7 @@ Get the latest version or support at:
 	omeglelogger@gmail.com
 
 Requirements
-	You'll need a MySQL database and Apache+PHP with the CURL extension installed.
+	You'll need a MySQL database and Apache+PHP (PHP 5.2 or greater) with the CURL extension installed.
 
 Installation
 	Drop all the files into a directory on your web server.
