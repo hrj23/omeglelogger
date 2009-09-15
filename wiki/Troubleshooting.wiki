@@ -1,0 +1,5 @@
+#summary Troubleshooting
+
+=Troubleshooting=
+
+If you're getting lots of empty chats, or chats that connect but nobody says anything, you might have too many connections to Omegle open. Omegle only allows up to three connections per IP address to be open at once. OmegleLogger uses two of these. Therefore, you can't have more than two OmegleLogger's running on the same webserver at a time. Instead, run one logger and let other users view the chat logs. If you're running OmegleLogger on your workstation, don't use the Omegle website from your browser or you may run into the same issue.
